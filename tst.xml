@@ -1,0 +1,29 @@
+<xml>
+  <text xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T _default" ns0:sId="text0"> </text>
+  <s xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="s1"> Those events which
+    materially influence our future destinies </s>
+  <subst xmlns:ns0="http://tag.di.huc.knaw.nl/ns/tag" xmlns:ns1="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:n="1" ns1:doc="_default" ns1:sId="subst2"> </subst>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="del3"> are</del>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="del3"> </del>
+  <subst xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="_default" ns0:eId="subst2">  often </subst>
+  <subst xmlns:ns0="http://tag.di.huc.knaw.nl/ns/tag" xmlns:ns1="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:n="2" ns1:doc="_default" ns1:sId="subst4"> </subst>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="del5"> caused by</del>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="del5"> </del>
+  <subst xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="_default" ns0:eId="subst4"> 
+    </subst>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="del6"> slight or</del>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="del6"> 
+    </del>
+  <subst xmlns:ns0="http://tag.di.huc.knaw.nl/ns/tag" xmlns:ns1="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:n="3" ns1:doc="_default" ns1:sId="subst7"> </subst>
+  <add xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="add8"> derive their
+    origin from a</add>
+  <add xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="add8"> </add>
+  <subst xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="_default" ns0:eId="subst7">  trivial
+    occurence</subst>
+  <subst xmlns:ns0="http://tag.di.huc.knaw.nl/ns/tag" xmlns:ns1="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:n="3" ns1:doc="_default" ns1:sId="subst9"> </subst>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:sId="del10"> s</del>
+  <del xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="del10"> </del>
+  <subst xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="_default" ns0:eId="subst9"> .</subst>
+  <s xmlns:ns0="http://www.blackmesatech.com/2017/nss/trojan-horse" ns0:doc="T" ns0:eId="s1"> 
+</s>
+</xml>

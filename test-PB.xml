@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:th="http://www.blackmesatech.com/2017/nss/trojan-horse">
+    <a th:sId="open"/>bbbb <a th:eId="close"/>
+</xml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:tag="http://tag.di.huc.knaw.nl/ns/tag"
+    xmlns:th="http://www.blackmesatech.com/2017/nss/trojan-horse" th:doc="T T1 _default">
+    <text th:doc="T _default" th:sId="text0"/><s th:doc="T" th:sId="s1"/>Those events which
+    materially influence our future destinies <subst tag:n="1" th:doc="_default" th:sId="subst2"
+    /><del th:doc="T" th:sId="del3"/>are<del th:doc="T" th:eId="del3"/><subst th:doc="_default"
+        th:eId="subst2"/> often <subst tag:n="2" th:doc="_default" th:sId="subst4"/><del th:doc="T"
+            th:sId="del5"/>caused by<del th:doc="T" th:eId="del5"/><subst th:doc="_default"
+                th:eId="subst4"/>
+    <del th:doc="T" th:sId="del6"/>slight or<del th:doc="T" th:eId="del6"/>
+    <subst tag:n="3" th:doc="_default" th:sId="subst7"/><add th:doc="T" th:sId="add8"/>derive their
+    origin from a<add th:doc="T" th:eId="add8"/><subst th:doc="_default" th:eId="subst7"/> trivial
+    occurence<subst tag:n="3" th:doc="_default" th:sId="subst9"/><del th:doc="T" th:sId="del10"
+    />s<del th:doc="T" th:eId="del10"/><subst th:doc="_default" th:eId="subst9"/>.<s th:doc="T"
+        th:eId="s1"/>
+</xml>
